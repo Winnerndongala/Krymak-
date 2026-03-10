@@ -1,0 +1,21 @@
+{
+  "name": "Krymak",
+  "short_name": "Krymak",
+  "description": "Streaming musical et réseau social pour artistes et fans.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/initials/svg?seed=K&backgroundColor=050505&fontSize=50",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/initials/svg?seed=K&backgroundColor=050505&fontSize=50",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
